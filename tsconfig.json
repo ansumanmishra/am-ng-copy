@@ -17,7 +17,21 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ng-copy": [
+        "dist/ng-copy"
+      ],
+      "ng-copy/*": [
+        "dist/ng-copy/*"
+      ],
+      "am-ng-copy": [
+        "dist/am-ng-copy"
+      ],
+      "am-ng-copy/*": [
+        "dist/am-ng-copy/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

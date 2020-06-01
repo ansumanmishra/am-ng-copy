@@ -1,0 +1,12 @@
+{
+  "name": "am-ng-copy",
+  "version": "1.0.0",
+  "author": "Ansuman Mishra",
+  "description": "A simple Angular module to copy text",
+  "license": "MIT",
+  "keywords": ["angular", "javascript", "typescript", "library", "copy"],
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
